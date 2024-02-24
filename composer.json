@@ -1,0 +1,10 @@
+{
+    "name": "dell/p-glife-master",
+    "description": "it is a composer file",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "stripe/stripe-php": "^13.1"
+    }
+}
